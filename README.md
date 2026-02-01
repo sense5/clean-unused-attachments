@@ -46,5 +46,6 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 If you find this plugin helpful and would like to support its development, you can buy me a coffee:
 
-[![Buy Me a Coffee at ko-fi.com](https://storage.ko-fi.com/cdn/kofi6.png?v=6)](https://ko-fi.com/Q5Q01TE8VQ)
+<a href='https://ko-fi.com/Q5Q01TE8VQ' target='_blank'><img height='32' style='border:0px;height:32px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 
