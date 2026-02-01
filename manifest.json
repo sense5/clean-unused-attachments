@@ -1,0 +1,10 @@
+{
+    "id": "clean-unused-attachments",
+    "name": "Clean Unused Attachments",
+    "version": "2.0.0",
+    "minAppVersion": "1.5.0",
+    "description": "Efficiently identify and remove media files that are no longer referenced in your vault. Featuring thumbnail previews and reference search for verification. Based on Ozan's Clear Unused Images.",
+    "author": "Thomas He",
+    "authorUrl": "https://obsidian.md",
+    "isDesktopOnly": false
+}
