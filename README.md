@@ -13,6 +13,7 @@ Efficiently identify and remove media files that are no longer referenced in you
     - Built-in **Bulk Undo** and per-item restoration from trash.
 - **Modern UI**: Clean, responsive sidebar interface with step-by-step guidance for a smooth workflow.
 
+
 ## How to Use
 
 1. **Scan**: Click the **① Refresh** button to analyze your vault's reference structure.
@@ -21,13 +22,21 @@ Efficiently identify and remove media files that are no longer referenced in you
 4. **Delete**: Click **Delete** to move selected files to trash.
 5. **Undo**: Mistakenly deleted? Use the **Undo** button to restore files immediately.
 
+
 ## Methodology
+
+| ![Main Interface](images/mainpage.png) | ![Selection](images/mselect.png) |
+| :---: | :---: |
+| *Intuitive Dashboard* | *Advanced Batch Selection* |
+| ![Deletion](images/delete.png) | ![Undo](images/undo.png) |
+| *Safe File Deletion* | *Instant Bulk Undo* |
 
 This plugin builds a comprehensive index of all links in your vault (Wiki-links and Markdown links). It then compares this index against the actual files in your filesystem to identify those without a single valid reference. This ensures that even manually formatted links or links in complex note structures are accounted for.
 
+
 ## Credits
 
-This plugin is deeply inspired by and based on [Ozan's Clear Unused Images](https://github.com/ozantoptas/obsidian-clear-unused-images). It has been refactored and enhanced with modern UI elements, new selection logic, and stabilized background processing.
+This plugin is deeply inspired by and based on [Ozan's Clear Unused Images](https://github.com/ozntel/oz-clear-unused-images-obsidian). It has been refactored and enhanced with modern UI elements, new selection logic, and stabilized background processing.
 
 ## License
 
