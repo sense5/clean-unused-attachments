@@ -1,4 +1,4 @@
-# Clean Unused Attachments
+# Obsidian Clean Unused Attachments Plugin
 
 Efficiently identify and remove media files that are no longer referenced in your Obsidian vault. This plugin scans your entire vault to find "orphan" attachments, providing a safe and intuitive way to keep your storage clean.
 
