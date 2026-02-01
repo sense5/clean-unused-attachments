@@ -41,3 +41,10 @@ This plugin is deeply inspired by and based on [Ozan's Clear Unused Images](http
 ## License
 
 MIT License. See [LICENSE](LICENSE) for details.
+
+## Support
+
+If you find this plugin helpful and would like to support its development, you can buy me a coffee:
+
+[![Buy Me a Coffee at ko-fi.com](https://storage.ko-fi.com/cdn/kofi6.png?v=6)](https://ko-fi.com/Q5Q01TE8VQ)
+
